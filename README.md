@@ -1,0 +1,2 @@
+# E104-BT53A3 (EFR32BG22C224F512GM32 module) breakout
+

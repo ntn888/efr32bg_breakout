@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "efr32bg_breakout_stuff")(type "KiCad")(uri "${KIPRJMOD}/efr32bg_breakout_stuff.kicad_sym")(options "")(descr ""))
+)
