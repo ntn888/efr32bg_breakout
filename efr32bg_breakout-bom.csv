@@ -1,0 +1,9 @@
+Designator,Comment,Footprint,JLCPCB Part #（optional）
+    C1,0.1uF,Capacitor_SMD:C_0402_1005Metric,C1525
+   D1,LED,LED_SMD:LED_0603_1608Metric,C2286
+   D2,LED,LED_SMD:LED_0603_1608Metric,C2290
+">  R1, R4",1K,Resistor_SMD:R_0402_1005Metric,C11702
+    R2,100K,Resistor_SMD:R_0402_1005Metric,C25741
+    R3,330,Resistor_SMD:R_0402_1005Metric,C25104
+    SW1,SW_Push,efr32bg_breakout_stuff:SW_SPST_TS-1088-AR02016,C720477
+    U1,E104-BT53A3,efr32bg_breakout_stuff:E104-BT53A3_module,C2929297
