@@ -1,4 +1,4 @@
-3508499911548
+3508502872695
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105606,8 +105606,8 @@ E104-BT53A3_module
 
 
 0
-0
-0
+26
+26
 efr32bg_breakout_stuff
 SW_SPST_TS-1088-AR02016
 Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE7.pdf
